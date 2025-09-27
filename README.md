@@ -8,7 +8,7 @@
 - 📇 **ContactFusion (Secure Contact Management System)**  
 
 🌱 I’m currently exploring **Spring Boot, Cyber Security, and Cloud Integration**  
-📫 How to reach me: **rajsahu15@gmail.com**  
+📫 How to reach me: **rajsahuwork@gmail.com**  
 ⚡ Fun fact: I commit more to GitHub than to relationships 💔🤣  
 
 ---
