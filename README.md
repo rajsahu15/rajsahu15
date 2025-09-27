@@ -1,6 +1,6 @@
 # Hi 👋, I'm Raj Sahu
 
-🎓 I am a **B.Tech Graduate (Batch 2025)** from **Shri Vaishnav Vidyapeeth Vishwavidyalay** \\
+🎓 I am a **B.Tech Graduate (Batch 2025)** from **Shri Vaishnav Vidyapeeth Vishwavidyalay** <br>
 💻 My tech domains are **Java & Web Applications**
 
 🚀 I’ve built dynamic projects like:
@@ -8,8 +8,8 @@
 - 🌐 **Techsphare Website**
 - 📇 **ContactFusion (Secure Contact Management System)**
 
-🌱 I’m currently exploring **Spring Boot, Cyber Security, and Cloud Integration** \\
-📫 How to reach me: **rajsahuwork@gmail.com** \\
+🌱 I’m currently exploring **Spring Boot, Cyber Security, and Cloud Integration** <br>
+📫 How to reach me: **rajsahuwork@gmail.com** <br>
 ⚡ Fun fact: I commit more to GitHub than to relationships 💔🤣
 
 ---
