@@ -10,7 +10,7 @@
 
 🌱 I’m currently exploring **Spring Boot, Cyber Security, and Cloud Integration** <br>
 📫 How to reach me: **rajsahuwork@gmail.com** <br>
-⚡ Fun fact: I commit more to GitHub than to relationships 💔🤣
+⚡ Fun fact: I commit more to GitHub than to relationships :)
 
 ---
 
