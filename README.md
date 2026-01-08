@@ -4,7 +4,7 @@
 💻 My tech domains are **Java & Web Applications**
 
 🚀 I’ve built dynamic projects like:
-- 🩸 **Blood Bank Management System**
+- 🩸 **Notes Hub (Managing Documents)**
 - 🌐 **Techsphare Website**
 - 📇 **ContactFusion (Secure Contact Management System)**
 
